@@ -10,10 +10,9 @@ Aplicación Android creada con **Kotlin + Jetpack Compose**, que simula el monit
 
 ## EMPIEZA POR `INSTRUCCIONES_PASO_A_PASO.md`
 
-Este paquete contiene archivos fuente completos, pero **no incluye un APK compilado**, ni `google-services.json`, ni el Gradle Wrapper JAR. Se debe abrir con Android Studio, configurar Firebase y generar la APK desde el computador. Lee las instrucciones antes de intentar ejecutar.
+Este paquete contiene archivos fuente completos, pero **no incluye un APK compilado**, ni `google-services.json`, ni el Gradle Wrapper JAR. Se debe abrir con Android Studio, configurar Firebase y generar la APK desde el computador. Leer las instrucciones antes de ejecutar.
 
-## Archivos relevantes
-
+## Archivos relevantesr
 - `app/src/main/java/com/eva/ventanasmartiot/`: código Android escrito en Kotlin
 - `app/src/main/java/com/eva/ventanasmartiot/Config.kt`: URL pendiente de Firebase
 - `firebase.database.rules.json`: permisos y validaciones para Firebase
